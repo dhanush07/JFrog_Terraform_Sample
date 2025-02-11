@@ -1,0 +1,1 @@
+# JFrog_Terraform_Samole
